@@ -13,4 +13,4 @@ This repository contains code and resources for training and deploying a deep le
 
 * Evaluation metrics and visualization tools.
 # Setup
-The code was run on Google Colab, with a T4 GPU. We installed #ultralytics library
+The code was run on Google Colab, with a T4 GPU. We installed [[[ ultralytics ]]] library
