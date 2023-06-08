@@ -35,4 +35,4 @@ results folder consists of 2 folders train and val. train folder consists visual
 
 The training of YoloV8n model was done for 100 epochs and was completed in 0.613 hours. After training, we get the following results:
 
-[confusion matrix](results/train/confusion_matrix.png)
+![](results/train/confusion_matrix.png)
