@@ -32,3 +32,7 @@ Both pretrained model yolov8s.pt and best.pt are provided in the models folder. 
 SOource_file folder consists of the test images used to evaluation of our custom trained model.
 # Results
 results folder consists of 2 folders train and val. train folder consists visualiztion of train batches, confusion matrix for trainig, F1_curve, P_curve, PR_curve, R_curve of training results. Similarly val consists visualiztion of validation batches, confusion matrix for trainig, F1_curve, P_curve, PR_curve, R_curve of validation results.
+
+The training of YoloV8n model was done for 100 epochs and was completed in 0.613 hours. After training, we get the following results:
+
+(results/train/confusion_matrix.png)
