@@ -29,9 +29,9 @@ Using the pretrained model yolov8s.pt, we trained our dataset and created the cu
 
 Both pretrained model yolov8s.pt and best.pt are provided in the models folder. best.pt can be used for detecting the construction workers safety gears inspection.
 # source_files
-SOource_file folder consists of the test images used to evaluation of our custom trained model.
+Source_file folder consists of the test images used to evaluation of our custom trained model.
 # Notebook
-In the notebook folder, 
+In the notebook folder, a notebook of custom object detection code is been provided in construction_safety_gears_detection_api.ipynb file. You can access the file with google colab, jupyter notebook etc. You can upload your own dataset and create your own customized object detection model using YoloV8.
 # Results
 results folder consists of 2 folders train and val. train folder consists visualiztion of train batches, confusion matrix for trainig, F1_curve, P_curve, PR_curve, R_curve of training results. Similarly val consists visualiztion of validation batches, confusion matrix for trainig, F1_curve, P_curve, PR_curve, R_curve of validation results.
 
