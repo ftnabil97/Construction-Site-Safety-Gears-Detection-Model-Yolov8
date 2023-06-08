@@ -1,0 +1,13 @@
+train: path/to/your/train/images
+val: path/to/your/valid/images
+test: path/to/your/test/images
+
+nc: 11
+names: ['Gloves', 'Hardhat', 'Mask', 'NO-Gloves', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Boot', 'NO-Safety Vest', 'Person', 'Safety Boot', 'Safety Vest']
+
+roboflow:
+  workspace: construction-ppe-dataset
+  project: construction-safety-gears-vcbdq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/construction-ppe-dataset/construction-safety-gears-vcbdq/dataset/1
